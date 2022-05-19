@@ -1,0 +1,15 @@
+{
+  "name": "tsup-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsup"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^5.12.8",
+    "typescript": "^4.6.4"
+  }
+}
